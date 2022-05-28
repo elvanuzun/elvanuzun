@@ -10,7 +10,7 @@
 
 - 👯 **Part-time traveller, writer and yogi. Full-time dreamer.**
 
-- 🌱 I’m currently learning **Python and Flutter**
+- 🌱 I’m currently learning **Python and Flutter.**
 
 - 📫 How to reach me **elvanuzun98@gmail.com**
 
