@@ -10,9 +10,7 @@
 
 - 👯 **Part-time traveller, writer and yogi. Full-time dreamer and learner.**
 
-- 🌱 I’m currently learning **Python and Flutter.**
-
-- ⚡   I am in the [SistersLab](https://sisterslab.co/)-Women in Tech Academy.
+- 🌱 I’m currently learning **Python and HTML/CSS.**
 
 - 📫 How to reach me **elvanuzun98@gmail.com**
 
