@@ -10,7 +10,7 @@
 
 - 👯 **Part-time traveller, writer and yogi. Full-time dreamer and learner.**
 
-- 🌱 I’m currently learning **Python and HTML/CSS.**
+- 🌱 I’m currently learning **JavaScript.**
 
 - 📫 How to reach me **elvanuzun98@gmail.com**
 
